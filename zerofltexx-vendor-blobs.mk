@@ -97,8 +97,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/zerofltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/zerofltexx/proprietary/bin/cs:system/bin/cs \
+    vendor/samsung/zerofltexx/proprietary/etc/sec_s3fwrn5p_rfreg.bin:system/etc/sec_s3fwrn5p_rfreg.bin \
     vendor/samsung/zerofltexx/proprietary/lib/hw/nfc_nci.universal7420.so:system/lib/hw/nfc_nci.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/nfc_nci.universal7420.so:system/lib64/hw/nfc_nci.universal7420.so \
+    vendor/samsung/zerofltexx/proprietary/vendor/firmware/sec_s3fwrn5p_firmware.bin:system/vendor/firmware/sec_s3fwrn5p_firmware.bin \
     vendor/samsung/zerofltexx/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/zerofltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/zerofltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
