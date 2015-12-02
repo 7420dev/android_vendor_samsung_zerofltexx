@@ -99,6 +99,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/bin/cs:system/bin/cs \
     vendor/samsung/zerofltexx/proprietary/lib/hw/nfc_nci.universal7420.so:system/lib/hw/nfc_nci.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/nfc_nci.universal7420.so:system/lib64/hw/nfc_nci.universal7420.so \
+    vendor/samsung/zerofltexx/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/zerofltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/zerofltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
@@ -106,6 +107,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/samsung/zerofltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
+    vendor/samsung/zerofltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/zerofltexx/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/zerofltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
     vendor/samsung/zerofltexx/proprietary/lib/hw/sensors.universal7420.so:system/lib/hw/sensors.universal7420.so \
