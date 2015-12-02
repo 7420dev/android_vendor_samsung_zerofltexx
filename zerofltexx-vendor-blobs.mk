@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/bcm4358A0_V0009.0033.hcd:system/vendor/firmware/bcm4358A0_V0009.0033.hcd \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/bcm4358A1_V0041.0075.hcd:system/vendor/firmware/bcm4358A1_V0041.0075.hcd \
+    vendor/samsung/zerofltexx/proprietary/vendor/firmware/bcm4358A3_V0036.0054.hcd:system/vendor/firmware/bcm4358A3_V0036.0054.hcd \
     vendor/samsung/zerofltexx/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libexynoscamera3.so:system/lib64/libexynoscamera3.so \
     vendor/samsung/zerofltexx/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
