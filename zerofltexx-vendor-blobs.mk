@@ -17,19 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/seiren_fw_dram.bin:system/vendor/firmware/seiren_fw_dram.bin \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
-    vendor/samsung/zerofltexx/proprietary/lib/hw/audio.primary.universal7420.so:system/lib/hw/audio.primary.universal7420.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libcontrolcsc.so:system/lib/libcontrolcsc.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libcontrolcsc.so:system/lib64/libcontrolcsc.so \
-    vendor/samsung/zerofltexx/proprietary/lib/lib_DNSe_EP_ver216b.so:system/lib/lib_DNSe_EP_ver216b.so \
-    vendor/samsung/zerofltexx/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libsamsungearcare.so:system/lib/libsamsungearcare.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libsamsungSoundbooster_ext.so:system/lib/libsamsungSoundbooster_ext.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libsamsungSoundbooster_pgb.so:system/lib/libsamsungSoundbooster_pgb.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/bcm4358A0_V0009.0033.hcd:system/vendor/firmware/bcm4358A0_V0009.0033.hcd \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/bcm4358A1_V0041.0075.hcd:system/vendor/firmware/bcm4358A1_V0041.0075.hcd \
     vendor/samsung/zerofltexx/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
