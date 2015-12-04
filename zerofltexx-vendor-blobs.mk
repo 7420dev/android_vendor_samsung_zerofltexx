@@ -151,8 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libexynosgscaler.so:system/lib64/libexynosgscaler.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libexynosscaler.so:system/lib64/libexynosscaler.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libexynosutils.so:system/lib64/libexynosutils.so \
-    vendor/samsung/zerofltexx/proprietary/vendor/lib/liblvverx_3.27.02.so:system/vendor/lib/liblvverx_3.27.02.so \
-    vendor/samsung/zerofltexx/proprietary/vendor/lib/liblvvetx_3.27.02.so:system/vendor/lib/liblvvetx_3.27.02.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib64/egl/libGLES_mali.so:system/vendor/lib64/egl/libGLES_mali.so \
     vendor/samsung/zerofltexx/proprietary/bin/gps.cer:system/bin/gps.cer \
@@ -215,13 +213,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
     vendor/samsung/zerofltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
-    vendor/samsung/zerofltexx/proprietary/bin/bcm_sensorhub_a2.patch:system/bin/bcm_sensorhub_a2.patch \
-    vendor/samsung/zerofltexx/proprietary/lib/hw/sensorhubs.universal7420.so:system/lib/hw/sensorhubs.universal7420.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/hw/sensorhubs.universal7420.so:system/lib64/hw/sensorhubs.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib/hw/sensors.universal7420.so:system/lib/hw/sensors.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/sensors.universal7420.so:system/lib64/hw/sensors.universal7420.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libagc_max.so:system/lib64/libagc_max.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libhr.so:system/lib64/libhr.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
@@ -235,7 +228,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_mfg.bin_a1:system/etc/wifi/bcmdhd_mfg.bin_a1 \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_sta.bin_a1:system/etc/wifi/bcmdhd_sta.bin_a1 \
-    vendor/samsung/zerofltexx/proprietary/etc/wifi/cred.conf:system/etc/wifi/cred.conf \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_mfg.txt_a1:system/etc/wifi/nvram_mfg.txt_a1 \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_mfg.txt_b85_a1:system/etc/wifi/nvram_mfg.txt_b85_a1 \
@@ -253,5 +245,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_net.txt_murata_b85_a1:system/etc/wifi/nvram_net.txt_murata_b85_a1 \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_net.txt_wisol:system/etc/wifi/nvram_net.txt_wisol \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_net.txt_wisol_a1:system/etc/wifi/nvram_net.txt_wisol_a1 \
-    vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_net.txt_wisol_b85_a1:system/etc/wifi/nvram_net.txt_wisol_b85_a1 \
-    vendor/samsung/zerofltexx/proprietary/etc/wifi/olsrd.conf:system/etc/wifi/olsrd.conf
+    vendor/samsung/zerofltexx/proprietary/etc/wifi/nvram_net.txt_wisol_b85_a1:system/etc/wifi/nvram_net.txt_wisol_b85_a1
