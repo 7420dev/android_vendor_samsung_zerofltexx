@@ -157,6 +157,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/vendor/lib64/egl/libGLES_mali.so:system/vendor/lib64/egl/libGLES_mali.so \
     vendor/samsung/zerofltexx/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/zerofltexx/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/zerofltexx/proprietary/bin/lhd:system/bin/lhd \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/gps.universal7420.so:system/lib64/hw/gps.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \
