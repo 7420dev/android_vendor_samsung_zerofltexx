@@ -197,6 +197,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/zerofltexx/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/zerofltexx/proprietary/bin/cs:system/bin/cs \
+    vendor/samsung/zerofltexx/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
+    vendor/samsung/zerofltexx/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
     vendor/samsung/zerofltexx/proprietary/etc/sec_s3fwrn5p_rfreg.bin:system/etc/sec_s3fwrn5p_rfreg.bin \
     vendor/samsung/zerofltexx/proprietary/lib/hw/nfc_nci.universal7420.so:system/lib/hw/nfc_nci.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/nfc_nci.universal7420.so:system/lib64/hw/nfc_nci.universal7420.so \
@@ -215,11 +217,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
     vendor/samsung/zerofltexx/proprietary/lib/hw/sensors.universal7420.so:system/lib/hw/sensors.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/sensors.universal7420.so:system/lib64/hw/sensors.universal7420.so \
+    vendor/samsung/zerofltexx/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/samsung/zerofltexx/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
+    vendor/samsung/zerofltexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_apsta.bin_a1:system/etc/wifi/bcmdhd_apsta.bin_a1 \
     vendor/samsung/zerofltexx/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
