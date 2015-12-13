@@ -213,6 +213,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
     vendor/samsung/zerofltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/zerofltexx/proprietary/lib64/libsec-ril.so:system/lib64/libsec-ril.so \
+    vendor/samsung/zerofltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/zerofltexx/proprietary/lib64/libsecril-client.so:system/lib64/libsecril-client.so \
     vendor/samsung/zerofltexx/proprietary/bin/bcm_sensorhub_a2.patch:system/bin/bcm_sensorhub_a2.patch \
     vendor/samsung/zerofltexx/proprietary/lib/hw/sensorhubs.universal7420.so:system/lib/hw/sensorhubs.universal7420.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/sensorhubs.universal7420.so:system/lib64/hw/sensorhubs.universal7420.so \
