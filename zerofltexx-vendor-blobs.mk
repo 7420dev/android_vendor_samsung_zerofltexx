@@ -147,6 +147,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/consumerir.exynos5.so:system/lib64/hw/consumerir.exynos5.so \
     vendor/samsung/zerofltexx/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/samsung/zerofltexx/proprietary/lib64/hw/gralloc.exynos5.so:system/lib64/hw/gralloc.exynos5.so \
+    vendor/samsung/zerofltexx/proprietary/lib/hw/hwcomposer.exynos5.so:system/lib/hw/hwcomposer.exynos5.so \
+    vendor/samsung/zerofltexx/proprietary/lib64/hw/hwcomposer.exynos5.so:system/lib64/hw/hwcomposer.exynos5.so \
     vendor/samsung/zerofltexx/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
     vendor/samsung/zerofltexx/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
     vendor/samsung/zerofltexx/proprietary/lib/libexynosutils.so:system/lib/libexynosutils.so \
