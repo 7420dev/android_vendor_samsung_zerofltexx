@@ -157,12 +157,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/zerofltexx/proprietary/lib64/libexynosutils.so:system/lib64/libexynosutils.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/zerofltexx/proprietary/vendor/lib64/egl/libGLES_mali.so:system/vendor/lib64/egl/libGLES_mali.so \
-    vendor/samsung/zerofltexx/proprietary/bin/gps.cer:system/bin/gps.cer \
-    vendor/samsung/zerofltexx/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/zerofltexx/proprietary/bin/lhd:system/bin/lhd \
-    vendor/samsung/zerofltexx/proprietary/lib64/hw/gps.universal7420.so:system/lib64/hw/gps.universal7420.so \
-    vendor/samsung/zerofltexx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
-    vendor/samsung/zerofltexx/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/fimc_is_fw2_imx240.bin:system/vendor/firmware/fimc_is_fw2_imx240.bin \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/zerofltexx/proprietary/vendor/firmware/setfile_4e6.bin:system/vendor/firmware/setfile_4e6.bin \
